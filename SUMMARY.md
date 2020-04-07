@@ -13,5 +13,7 @@
 
 * [Chapter 2](Chapter_2/Chapter_2_Intro.md)
   * [Chapter 2-1](Chapter_2/Chapter_2.md)
+  * [Chapter 2-2](Chapter_2/游戏测试.md)
+  
 
 ---
