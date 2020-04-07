@@ -3,4 +3,3 @@
 图片示例
 
 ![Picture Demo](../Pictures/demo.jpg)
-http://shuoweiwu.xyz/
